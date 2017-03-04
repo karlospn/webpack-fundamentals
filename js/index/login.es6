@@ -6,4 +6,4 @@ let checkLogin = (user, password) => {
 }
 
 
-checkLogin("test", "badpassword");
+export {checkLogin};
