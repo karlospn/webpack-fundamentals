@@ -1,6 +1,7 @@
 {
   "scripts": {
     "builddev": "webpack --config webpack.config.js",
+    "buildmerge": "webpack --config webpack.merge.config.js",
     "buildprod": "webpack --config webpack.prod.config.js -p",
     "start": "webpack-dev-server --inline -d",
     "server": "http-server"
