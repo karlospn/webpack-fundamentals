@@ -1,3 +1,3 @@
 console.log("loading contact page");
 
-require('../css/contact.css')
+require('../css/contact.css');
