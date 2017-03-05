@@ -1,0 +1,4 @@
+{
+    // Comment ready to be strip by the custom loader on strip.js
+    "app_loaded_msg" : "Loaded from strip.js"
+}
